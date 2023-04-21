@@ -1,0 +1,19 @@
+[02/Apr/2023:19:32:15] (I): WordPress Instance Info:
+[02/Apr/2023:19:32:15] (I): Home URL : http://hoennsite.local
+[02/Apr/2023:19:32:15] (I): Site URL : http://hoennsite.local
+[02/Apr/2023:19:32:15] (I): WordPress Version : 6.2
+[02/Apr/2023:19:32:15] (I): Onboarding Version : 1.1.37
+[02/Apr/2023:19:32:15] (I): Multisite : No
+[02/Apr/2023:19:32:15] (I): Server Info : nginx/1.16.0
+[02/Apr/2023:19:32:15] (I): PHP Version : 8.1.9
+[02/Apr/2023:19:32:15] (I): HTTPS : No
+[02/Apr/2023:19:32:15] (I): PHP Max Execution Time : 1200
+[02/Apr/2023:19:32:15] (I): PHP Max Input Vars : 4000
+[02/Apr/2023:19:32:15] (I): Max Upload Size : 314572800
+[02/Apr/2023:19:32:15] (I): Plugins:
+[02/Apr/2023:19:32:15] (I): [PLUGIN] Ocean Extra : v2.1.4 (OceanWP)
+[02/Apr/2023:19:32:15] (I): [PLUGIN] Otter – Page Builder Blocks &amp; Extensions for Gutenberg : v2.2.4 (ThemeIsle)
+[02/Apr/2023:19:32:15] (I): [PLUGIN] Templates Patterns Collection : v1.1.37 (ThemeIsle)
+[02/Apr/2023:19:32:15] (P): Installing optimole-wp.
+[02/Apr/2023:19:32:15] (P): Activating optimole-wp.
+[02/Apr/2023:19:32:16] (S): Installed and activated plugins.
